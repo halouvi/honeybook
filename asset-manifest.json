@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/honeybook/static/css/main.31099514.chunk.css",
+    "main.js": "/honeybook/static/js/main.456489f5.chunk.js",
+    "main.js.map": "/honeybook/static/js/main.456489f5.chunk.js.map",
+    "runtime-main.js": "/honeybook/static/js/runtime-main.3e422d81.js",
+    "runtime-main.js.map": "/honeybook/static/js/runtime-main.3e422d81.js.map",
+    "static/js/2.900472c1.chunk.js": "/honeybook/static/js/2.900472c1.chunk.js",
+    "static/js/2.900472c1.chunk.js.map": "/honeybook/static/js/2.900472c1.chunk.js.map",
+    "index.html": "/honeybook/index.html",
+    "static/css/main.31099514.chunk.css.map": "/honeybook/static/css/main.31099514.chunk.css.map",
+    "static/js/2.900472c1.chunk.js.LICENSE.txt": "/honeybook/static/js/2.900472c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e422d81.js",
+    "static/js/2.900472c1.chunk.js",
+    "static/css/main.31099514.chunk.css",
+    "static/js/main.456489f5.chunk.js"
+  ]
+}
